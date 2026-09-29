@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "App Pedidos",
+    "slug": "app-pedidos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "app-pedidos",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
